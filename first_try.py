@@ -1,1 +1,1 @@
-print{"It`s my first try of coding by myself"}
+print("It`s my first try of coding by myself")
